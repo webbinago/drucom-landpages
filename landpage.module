@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Landing page feature.
+ */
+
+include_once 'landpage.features.inc';
